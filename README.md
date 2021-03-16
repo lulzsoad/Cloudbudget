@@ -1,3 +1,3 @@
 # Preview
 
-To jest [Preview](https://lulzsoad.github.io/cloud/).
+[Preview](https://lulzsoad.github.io/cloud/).
